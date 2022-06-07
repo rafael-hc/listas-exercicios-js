@@ -10,8 +10,6 @@ let verduras = ['Acelga', 'Alface', 'Chicória', 'escarola', 'Espinafre', 'Salsa
 
 // ---
 
-
-
 let passagemAerea = {
     origem: 'Rio de Janeiro (SDU)',
     destino: 'São Paulo (GRU)',
